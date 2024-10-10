@@ -1,5 +1,4 @@
 # jpa02-skanda-vasishta
-
 Repo: https://github.com/ucsb-cs156-f24/jpa02-skanda-vasishta
 
 Deployed at: https://jpa02-skanda-vasishta.dokku-06.cs.ucsb.edu
